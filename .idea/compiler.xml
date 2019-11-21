@@ -9,8 +9,5 @@
         <module name="CollectFlowData" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="CollectFlowData" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
